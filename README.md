@@ -7,9 +7,8 @@ My name is Diko, I am a bachelor of Computer Science from [Universitas Gadjah Ma
 ![Python](https://img.shields.io/badge/-Python-181717?style=flat-square&logo=Python) 
 ![React Native](https://img.shields.io/badge/-React-181717?style=flat-square&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-181717?style=flat-square&logo=javascript) 
-![Git](https://img.shields.io/badge/-Git-181717?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-181717?style=flat-square&logo=gitlab)
+![Git](https://img.shields.io/badge/-Git-eaeaea?style=flat-square&logo=git)
+![Editor](https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## Contact Me 🤙
 [![Linkedin Badge](https://img.shields.io/badge/-ahmadsyarifuddinr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmadsyarifuddinr/)](https://www.linkedin.com/in/ahmadsyarifuddinr/)
