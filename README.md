@@ -14,5 +14,7 @@ My name is Diko, I am a bachelor of Computer Science from [Universitas Gadjah Ma
 [![Linkedin Badge](https://img.shields.io/badge/-ahmadsyarifuddinr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmadsyarifuddinr/)](https://www.linkedin.com/in/ahmadsyarifuddinr/)
 [![Gmail Badge](https://img.shields.io/badge/-ahmadsyarifuddinr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahmadsyarifuddinr@gmail.com)](mailto:ahmadsyarifuddinr@gmail.com)
 
+<!---
 ## GitHub Stats 📈
 ![Diko's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ddikodroid&show_icons=true&theme=dracula)
+--->
