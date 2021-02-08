@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi! 👋
+My name is Diko, I am a bachelor of Computer Science from [Universitas Gadjah Mada](https://dcse.fmipa.ugm.ac.id/site/en/welcome/). 
 
-<!--
-**ddikodroid/ddikodroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I used to learn Python and I'm (currently) learning Mobile App Development with React Native.
 
-Here are some ideas to get you started:
+## Tech Stack ✨
+![Python](https://img.shields.io/badge/-Python-181717?style=flat-square&logo=Python) 
+![React Native](https://img.shields.io/badge/-React-181717?style=flat-square&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-181717?style=flat-square&logo=javascript) 
+![Git](https://img.shields.io/badge/-Git-181717?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-181717?style=flat-square&logo=gitlab)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact Me at
+[![Linkedin Badge](https://img.shields.io/badge/-ahmadsyarifuddinr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmadsyarifuddinr/)](https://www.linkedin.com/in/ahmadsyarifuddinr/)
+[![Gmail Badge](https://img.shields.io/badge/-ahmadsyarifuddinr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahmadsyarifuddinr@gmail.com)](mailto:ahmadsyarifuddinr@gmail.com)
+
+## GitHub Stats 📈
+![Diko's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ddikodroid&show_icons=true&theme=dracula)
