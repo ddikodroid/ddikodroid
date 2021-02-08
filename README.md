@@ -1,7 +1,7 @@
 ## Hi! 👋
 My name is Diko, I am a bachelor of Computer Science from [Universitas Gadjah Mada](https://dcse.fmipa.ugm.ac.id/site/en/welcome/). 
 
-🌱 I used to learn Python and I'm (currently) learning Mobile App Development with React Native.
+🌱 I used to learn Python and now I'm learning Mobile App Development with React Native.
 
 ## Tech Stack ✨
 ![Python](https://img.shields.io/badge/-Python-181717?style=flat-square&logo=Python) 
@@ -11,7 +11,7 @@ My name is Diko, I am a bachelor of Computer Science from [Universitas Gadjah Ma
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-181717?style=flat-square&logo=gitlab)
 
-## Contact Me at
+## Contact Me 🤙
 [![Linkedin Badge](https://img.shields.io/badge/-ahmadsyarifuddinr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmadsyarifuddinr/)](https://www.linkedin.com/in/ahmadsyarifuddinr/)
 [![Gmail Badge](https://img.shields.io/badge/-ahmadsyarifuddinr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahmadsyarifuddinr@gmail.com)](mailto:ahmadsyarifuddinr@gmail.com)
 
