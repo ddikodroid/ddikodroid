@@ -10,15 +10,22 @@ My name is Diko, I am a bachelor of Computer Science from [Universitas Gadjah Ma
 
 
 ## Tech Stack ✨
-![Python](https://img.shields.io/badge/-Python-1c252d?style=flat-square&logo=Python) 
-![React Native](https://img.shields.io/badge/-React%20Native-24272e?style=flat-square&logo=react)
-![JavaScript](https://img.shields.io/badge/-JavaScript-171717?style=flat-square&logo=javascript) 
-![Git](https://img.shields.io/badge/-Git-fafafa?style=flat-square&logo=git)
-![Editor](https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-171717?style=for-the-badge&logo=javascript)
+![Typecript](https://img.shields.io/badge/-Typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
+![React Native](https://img.shields.io/badge/-React%20Native-24272e?style=for-the-badge&logo=react)
+![Git](https://img.shields.io/badge/-Git-fafafa?style=for-the-badge&logo=git)
+![Editor](https://img.shields.io/badge/-VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## Laptop 🐱‍💻
+![MacBook](https://img.shields.io/badge/Apple-MacBook_M1_Pro_14"_16GB_1TB-999999?style=for-the-badge&logo=apple&logoColor=white)
+
+## Desktop 🖥️
+![Processor](https://img.shields.io/badge/Intel-Core_i5_6600K-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![GPU](https://img.shields.io/badge/NVIDIA-GeForce_GTX_1070-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ## Contact Me 🤙
-[![Linkedin Badge](https://img.shields.io/badge/-ahmadsyarifuddinr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmadsyarifuddinr/)](https://www.linkedin.com/in/ahmadsyarifuddinr/)
-[![Gmail Badge](https://img.shields.io/badge/-ahmadsyarifuddinr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahmadsyarifuddinr@gmail.com)](mailto:ahmadsyarifuddinr@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-ahmadsyarifuddinr-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmadsyarifuddinr/)](https://www.linkedin.com/in/ahmadsyarifuddinr/)
+[![Gmail Badge](https://img.shields.io/badge/-ahmadsyarifuddinr@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ahmadsyarifuddinr@gmail.com)](mailto:ahmadsyarifuddinr@gmail.com)
 
 <!---
 ## GitHub Stats 📈
