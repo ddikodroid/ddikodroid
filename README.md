@@ -2,7 +2,7 @@
 My name is Diko, I am a bachelor of Computer Science from [Universitas Gadjah Mada](https://dcse.fmipa.ugm.ac.id/site/en/welcome/). 
 
 🌱 I used to learn Python and now I'm learning mobile app development with React Native.  
-🏢 Working in the Central Bank on the one of IT department. 
+🏢 Working in the Central Bank on the one of IT department.  
 📖 Learning Swift, SwiftUI, and UIKit (soon) to know more about Apple's native app development.
 
 ![image](https://user-images.githubusercontent.com/4207774/167306565-96e4577a-ec1c-4f6e-a780-e62ae7605f70.gif)
